@@ -36,7 +36,7 @@
 
 - 💸 Check out my **Freelance** profiles here - [Upwork](https://www.upwork.com/freelancers/muhammadsaad17), [Fiverr](https://www.fiverr.com/msaad_dev)
 
-- 📫 Feel free to reach out to me - **saad.salman11123@gmail.com**
+- 📫 Feel free to reach out to me - saad.salman11123@gmail.com
 
 - 🏠 Don't hesitate to drop me a **👋** on [Linkedin](https://www.linkedin.com/in/msaad01/)
 <!--Intro end-->
