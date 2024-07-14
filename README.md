@@ -9,12 +9,9 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=AI/ML+Data+Engineering+@+PAR;Computer+Science+Student;Competitive+Programmer;Silver+Medalist+@+ICPC+Pakistan+2023;Global+Winner+@+IFTP+2024+France;Always+learning+new+things"></a>
+</p>
 
 
 <!--h2 without bottom border-->
