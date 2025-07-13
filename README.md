@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=ML+@+Toyota+IMC;OpenSource+Contributor;xAI/ML+Data+Engineering+@+PAR;Computer+Science+Student;Competitive+Programmer;2x+ICPC+Asia+West+Finalist;Gold+Medalist+@+ICPC+Pakistan+2025;Global+Winner+@+IFTP+2024+France;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=SDE+Intern+@+Google+DeepMind;OpenSource+Contributor;Competitive+Programmer;2x+ICPC+Asia+West+Finalist;Gold+Medalist+@+ICPC+Pakistan+2025;Global+Winner+@+IFTP+2024+France;"></a>
 </p>
 
 
@@ -23,11 +23,9 @@
 
 
 <!--Intro start-->
-- 💪 **ML @ Toyota IMC | CS @ Habib University**
+- 💪 **SDE Intern @ Google DeepMind (GSoC) | CS @ Habib University**
 
 - 🔐 **OpenSource Contributor @ Langchain and Llama Index**
-
-- 👨‍💻 **xAI/ML Data Engineering @ PAR**
 
 - 💻 Currently working on **AWS, React, Nextjs, Nodejs, MongoDB, PostgreSQL, AI/ML**
 
