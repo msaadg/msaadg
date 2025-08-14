@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=SDE+Intern+@+Google+DeepMind;OpenSource+Contributor;Competitive+Programmer;2x+ICPC+Asia+West+Finalist;Gold+Medalist+@+ICPC+Pakistan+2025;Global+Winner+@+IFTP+2024+France;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=SDE+Intern+@+Google+DeepMind+(GSoC);OpenSource+Contributor+@+LangChain;Gold+Medalist+@+ICPC+Regionals+2025;2x+ICPC+Asia+West+Finalist;2nd+Runner+up+@+IFTP+2024+France;"></a>
 </p>
 
 
@@ -25,13 +25,13 @@
 <!--Intro start-->
 - 💪 **SDE Intern @ Google DeepMind (GSoC) | CS @ Habib University**
 
-- 🔐 **OpenSource Contributor @ Langchain and Llama Index**
+- 🔐 **OpenSource Contributor @ LangChain and LlamaIndex**
 
-- 💻 Currently working on **AWS, React, Nextjs, Nodejs, MongoDB, PostgreSQL, AI/ML**
+- 🏆 **Gold, Silver, Bronze medalist @ ICPC Regionals 2025, 2023, 2024 respectively. 2x ICPC Asia West Finalist. 2nd Runner up @ IFTP 2024 France**
+
+- 💻 Currently working on **React, Nextjs, PostgreSQL, Firebase, AWS, LangChain, LlamaIndex**
 
 - 👨🏻‍💻 Follow my **Competitive Programming** journey here - [Leetcode](https://leetcode.com/u/msaad01/), [Codeforces](https://codeforces.com/profile/msaad01)
-
-- 🏆 **Gold medalist ICPC Pakistan 2025, Silver medalist ICPC Pakistan 2023, Bronze medalist ICPC Pakistan 2024, IFTP Global Winner 2024**
 
 - 💸 Check out my **Freelance** profiles here - [Upwork](https://www.upwork.com/freelancers/muhammadsaad17), [Fiverr](https://www.fiverr.com/msaad_dev)
 
